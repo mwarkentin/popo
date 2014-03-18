@@ -1,0 +1,21 @@
+{
+    "teams": [
+        {"name": "TOR", "points": 85, "potential_points": 103},
+        {"name": "BOS", "points": 83, "potential_points": 108},
+        {"name": "PIT", "points": 92, "potential_points": 104},
+        {"name": "NYI", "points": 76, "potential_points": 103},
+        {"name": "NYR", "points": 83, "potential_points": 99},
+        {"name": "TOR", "points": 85, "potential_points": 102},
+        {"name": "BOS", "points": 83, "potential_points": 101},
+        {"name": "PIT", "points": 92, "potential_points": 107},
+        {"name": "NYI", "points": 76, "potential_points": 106},
+        {"name": "NYR", "points": 83, "potential_points": 107},
+        {"name": "BOS", "points": 83, "potential_points": 108},
+        {"name": "PIT", "points": 92, "potential_points": 103},
+        {"name": "NYI", "points": 76, "potential_points": 103},
+        {"name": "NYR", "points": 83, "potential_points": 102},
+        {"name": "TOR", "points": 85, "potential_points": 106},
+        {"name": "BOS", "points": 83, "potential_points": 92},
+        {"name": "PIT", "points": 92, "potential_points": 110}
+    ]
+}

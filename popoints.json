@@ -1,0 +1,42 @@
+{
+    "teams": [
+        {
+            "name": "Toronto Maple Leafs",
+            "abbreviation": "TOR",
+            "acronym": "TML",
+            "conference": "Eastern",
+            "division": "Atlantic",
+            "games_played": 69,
+            "games_remaining": 13,
+            "wins": 36,
+            "losses": 25,
+            "overtime_losses": 8,
+            "points": 80,
+            "potential_points": 106,
+            "logos": {
+                "large": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/logo.png",
+                "small": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/small_logo.png",
+                "tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/tiny_logo.png"
+            }
+        },
+        {
+            "name": "Montreal Canadiens",
+            "abbreviation": "MON",
+            "acronym": "MC",
+            "conference": "Eastern",
+            "division": "Atlantic",
+            "games_played": 68,
+            "games_remaining": 14,
+            "wins": 36,
+            "losses": 25,
+            "overtime_losses": 7,
+            "points": 79,
+            "potential_points": 107,
+            "logos": {
+                "large": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/logo.png",
+                "small": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/small_logo.png",
+                "tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/tiny_logo.png"
+            }
+        }
+    ]
+}
