@@ -46,6 +46,7 @@
 
             d3.json("points.json", function(error, data) {
               var teams = data.teams;
+              teams.sort(function(a, b) { return b.potential_points - a.potential_points; });
               y.domain([0, 184]);
 
               var barWidth = width / data.teams.length;
