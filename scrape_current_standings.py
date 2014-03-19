@@ -6,6 +6,12 @@ from pprint import pprint
 import requests
 
 
+def retinafy(image):
+    parts = image.split('.')
+    parts[-2] += '@2x'
+    return ".".join(parts)
+
+
 if __name__ == "__main__":
     r = requests.get('http://api.thescore.com/nhl/standings')
     standings = r.json()
@@ -24,7 +30,7 @@ if __name__ == "__main__":
             'name': name,
             'points': points,
             'potential_points': potential_points,
-            'logo_tiny': logo_tiny,
+            'logo_tiny': retinafy(logo_tiny),
             'conference': conference,
         }
 
