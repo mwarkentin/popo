@@ -49,7 +49,7 @@
               .append("g")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-            d3.json("points.json", function(error, data) {
+            d3.json("data.json", function(error, data) {
               var teams = data.teams;
               teams.sort(function(a, b) { return b.potential_points - a.potential_points; });
               y.domain([0, 184]);
@@ -74,10 +74,16 @@
                   .attr("class", 'points');
 
               bar.append("text")
-                  .attr("x", barWidth / 2)
+                  .attr("x", barWidth / 2.2)
                   .attr("y", function(d) { return y(d.points) + 3; })
                   .attr("dy", ".75em")
-                  .text(function(d) { return d.name + ": " + d.points; });
+                  .text(function(d) { return d.name; });
+
+              bar.append("text")
+                  .attr("x", barWidth / 2.2)
+                  .attr("y", function(d) { return y(d.points) + 15; })
+                  .attr("dy", ".75em")
+                  .text(function(d) { return d.points; });
 
               bar.append("image")
                   .attr("x", (barWidth - logoWidth) / 2)
