@@ -1,21 +1,20 @@
 {
     "teams": [
-        {"name": "TOR", "points": 85, "potential_points": 103},
-        {"name": "BOS", "points": 83, "potential_points": 108},
-        {"name": "PIT", "points": 92, "potential_points": 104},
-        {"name": "NYI", "points": 76, "potential_points": 103},
-        {"name": "NYR", "points": 83, "potential_points": 99},
-        {"name": "TOR", "points": 85, "potential_points": 102},
-        {"name": "BOS", "points": 83, "potential_points": 101},
-        {"name": "PIT", "points": 92, "potential_points": 107},
-        {"name": "NYI", "points": 76, "potential_points": 106},
-        {"name": "NYR", "points": 83, "potential_points": 107},
-        {"name": "BOS", "points": 83, "potential_points": 108},
-        {"name": "PIT", "points": 92, "potential_points": 103},
-        {"name": "NYI", "points": 76, "potential_points": 103},
-        {"name": "NYR", "points": 83, "potential_points": 102},
-        {"name": "TOR", "points": 85, "potential_points": 106},
-        {"name": "BOS", "points": 83, "potential_points": 92},
-        {"name": "PIT", "points": 92, "potential_points": 110}
+        {"name": "TOR", "points": 85, "potential_points": 103, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "BOS", "points": 83, "potential_points": 108, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "PIT", "points": 92, "potential_points": 104, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "NYI", "points": 76, "potential_points": 103, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "NYR", "points": 83, "potential_points": 99, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "TOR", "points": 85, "potential_points": 102, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "BOS", "points": 83, "potential_points": 101, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "PIT", "points": 92, "potential_points": 107, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "NYI", "points": 76, "potential_points": 106, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "NYR", "points": 83, "potential_points": 107, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "BOS", "points": 83, "potential_points": 108, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "PIT", "points": 92, "potential_points": 103, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "NYI", "points": 76, "potential_points": 103, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "NYR", "points": 83, "potential_points": 102, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "TOR", "points": 85, "potential_points": 106, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"},
+        {"name": "BOS", "points": 83, "potential_points": 92, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo.png"}
     ]
 }
