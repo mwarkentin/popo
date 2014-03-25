@@ -52,7 +52,7 @@
             d3.json("data.json", function(error, data) {
               var teams = data.teams;
               teams.sort(function(a, b) { return b.potential_points - a.potential_points; });
-              y.domain([0, 184]);
+              y.domain([0, 140]);
 
               var barWidth = width / data.teams.length;
 
@@ -75,15 +75,21 @@
 
               bar.append("text")
                   .attr("x", barWidth / 2.2)
-                  .attr("y", function(d) { return y(d.points) + 3; })
+                  .attr("y", function(d) { return height - 15; })
                   .attr("dy", ".75em")
                   .text(function(d) { return d.name; });
 
               bar.append("text")
                   .attr("x", barWidth / 2.2)
-                  .attr("y", function(d) { return y(d.points) + 15; })
+                  .attr("y", function(d) { return y(d.points) + 5; })
                   .attr("dy", ".75em")
                   .text(function(d) { return d.points; });
+
+              bar.append("text")
+                  .attr("x", barWidth / 2.2)
+                  .attr("y", function(d) { return y(d.potential_points) + 5; })
+                  .attr("dy", ".75em")
+                  .text(function(d) { return d.potential_points; });
 
               bar.append("image")
                   .attr("x", (barWidth - logoWidth) / 2)
