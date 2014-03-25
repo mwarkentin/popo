@@ -51,8 +51,15 @@
 
             d3.json("data.json", function(error, data) {
               var teams = data.teams;
-              teams.sort(function(a, b) { return b.potential_points - a.potential_points; });
+              teams
+                  .sort(function(a, b) { return b.potential_points - a.potential_points; });
               y.domain([0, 184]);
+
+              var nestedTeams = d3.nest()
+                  .key(function(d) { return d.conference; })
+                  .entries(teams);
+
+              console.log(nestedTeams);
 
               var barWidth = width / data.teams.length;
 
