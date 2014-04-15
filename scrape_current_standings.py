@@ -43,4 +43,4 @@ if __name__ == "__main__":
     }
 
     with open('data.json', 'wb') as fp:
-        json.dump(json_dict, fp)
+        json.dump(json_dict, fp, indent=2)
