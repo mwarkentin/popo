@@ -1,1 +1,214 @@
-{"teams": [{"potential_points": 124, "conference": "Eastern Conference", "points": 104, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo@2x.png", "name": "BOS"}, {"potential_points": 70, "conference": "Eastern Conference", "points": 48, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/tiny_logo@2x.png", "name": "BUF"}, {"potential_points": 102, "conference": "Eastern Conference", "points": 80, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/tiny_logo@2x.png", "name": "DET"}, {"potential_points": 105, "conference": "Eastern Conference", "points": 87, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/tiny_logo@2x.png", "name": "MON"}, {"potential_points": 93, "conference": "Eastern Conference", "points": 71, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/tiny_logo@2x.png", "name": "OTT"}, {"potential_points": 107, "conference": "Eastern Conference", "points": 87, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/tiny_logo@2x.png", "name": "TB"}, {"potential_points": 98, "conference": "Eastern Conference", "points": 80, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/tiny_logo@2x.png", "name": "TOR"}, {"potential_points": 80, "conference": "Eastern Conference", "points": 60, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/tiny_logo@2x.png", "name": "FLA"}, {"potential_points": 93, "conference": "Eastern Conference", "points": 71, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/tiny_logo@2x.png", "name": "CAR"}, {"potential_points": 95, "conference": "Eastern Conference", "points": 75, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/tiny_logo@2x.png", "name": "NJ"}, {"potential_points": 85, "conference": "Eastern Conference", "points": 63, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/tiny_logo@2x.png", "name": "NYI"}, {"potential_points": 102, "conference": "Eastern Conference", "points": 84, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/tiny_logo@2x.png", "name": "NYR"}, {"potential_points": 105, "conference": "Eastern Conference", "points": 83, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/tiny_logo@2x.png", "name": "PHI"}, {"potential_points": 119, "conference": "Eastern Conference", "points": 97, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/tiny_logo@2x.png", "name": "PIT"}, {"potential_points": 99, "conference": "Eastern Conference", "points": 79, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/tiny_logo@2x.png", "name": "WAS"}, {"potential_points": 100, "conference": "Eastern Conference", "points": 78, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/tiny_logo@2x.png", "name": "CLS"}, {"potential_points": 117, "conference": "Western Conference", "points": 97, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/tiny_logo@2x.png", "name": "CHI"}, {"potential_points": 101, "conference": "Western Conference", "points": 79, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/tiny_logo@2x.png", "name": "DAL"}, {"potential_points": 116, "conference": "Western Conference", "points": 94, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/tiny_logo@2x.png", "name": "COL"}, {"potential_points": 125, "conference": "Western Conference", "points": 103, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/tiny_logo@2x.png", "name": "STL"}, {"potential_points": 92, "conference": "Western Conference", "points": 72, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/tiny_logo@2x.png", "name": "NSH"}, {"potential_points": 91, "conference": "Western Conference", "points": 73, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/tiny_logo@2x.png", "name": "WPG"}, {"potential_points": 105, "conference": "Western Conference", "points": 85, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/tiny_logo@2x.png", "name": "MIN"}, {"potential_points": 87, "conference": "Western Conference", "points": 67, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/tiny_logo@2x.png", "name": "CGY"}, {"potential_points": 79, "conference": "Western Conference", "points": 59, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/tiny_logo@2x.png", "name": "EDM"}, {"potential_points": 108, "conference": "Western Conference", "points": 88, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/tiny_logo@2x.png", "name": "LA"}, {"potential_points": 119, "conference": "Western Conference", "points": 101, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/tiny_logo@2x.png", "name": "SJ"}, {"potential_points": 94, "conference": "Western Conference", "points": 76, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/tiny_logo@2x.png", "name": "VAN"}, {"potential_points": 100, "conference": "Western Conference", "points": 80, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/tiny_logo@2x.png", "name": "PHO"}, {"potential_points": 121, "conference": "Western Conference", "points": 99, "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/tiny_logo@2x.png", "name": "ANH"}]}
+{
+  "teams": [
+    {
+      "potential_points": 117, 
+      "conference": "Eastern Conference", 
+      "points": 117, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/1/tiny_logo@2x.png", 
+      "name": "BOS"
+    }, 
+    {
+      "potential_points": 52, 
+      "conference": "Eastern Conference", 
+      "points": 52, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/2/tiny_logo@2x.png", 
+      "name": "BUF"
+    }, 
+    {
+      "potential_points": 93, 
+      "conference": "Eastern Conference", 
+      "points": 93, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/18/tiny_logo@2x.png", 
+      "name": "DET"
+    }, 
+    {
+      "potential_points": 100, 
+      "conference": "Eastern Conference", 
+      "points": 100, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/3/tiny_logo@2x.png", 
+      "name": "MON"
+    }, 
+    {
+      "potential_points": 88, 
+      "conference": "Eastern Conference", 
+      "points": 88, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/4/tiny_logo@2x.png", 
+      "name": "OTT"
+    }, 
+    {
+      "potential_points": 101, 
+      "conference": "Eastern Conference", 
+      "points": 101, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/14/tiny_logo@2x.png", 
+      "name": "TB"
+    }, 
+    {
+      "potential_points": 84, 
+      "conference": "Eastern Conference", 
+      "points": 84, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/5/tiny_logo@2x.png", 
+      "name": "TOR"
+    }, 
+    {
+      "potential_points": 66, 
+      "conference": "Eastern Conference", 
+      "points": 66, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/13/tiny_logo@2x.png", 
+      "name": "FLA"
+    }, 
+    {
+      "potential_points": 83, 
+      "conference": "Eastern Conference", 
+      "points": 83, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/12/tiny_logo@2x.png", 
+      "name": "CAR"
+    }, 
+    {
+      "potential_points": 88, 
+      "conference": "Eastern Conference", 
+      "points": 88, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/6/tiny_logo@2x.png", 
+      "name": "NJ"
+    }, 
+    {
+      "potential_points": 79, 
+      "conference": "Eastern Conference", 
+      "points": 79, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/7/tiny_logo@2x.png", 
+      "name": "NYI"
+    }, 
+    {
+      "potential_points": 96, 
+      "conference": "Eastern Conference", 
+      "points": 96, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/8/tiny_logo@2x.png", 
+      "name": "NYR"
+    }, 
+    {
+      "potential_points": 94, 
+      "conference": "Eastern Conference", 
+      "points": 94, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/9/tiny_logo@2x.png", 
+      "name": "PHI"
+    }, 
+    {
+      "potential_points": 109, 
+      "conference": "Eastern Conference", 
+      "points": 109, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/10/tiny_logo@2x.png", 
+      "name": "PIT"
+    }, 
+    {
+      "potential_points": 90, 
+      "conference": "Eastern Conference", 
+      "points": 90, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/15/tiny_logo@2x.png", 
+      "name": "WAS"
+    }, 
+    {
+      "potential_points": 93, 
+      "conference": "Eastern Conference", 
+      "points": 93, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/17/tiny_logo@2x.png", 
+      "name": "CLB"
+    }, 
+    {
+      "potential_points": 107, 
+      "conference": "Western Conference", 
+      "points": 107, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/16/tiny_logo@2x.png", 
+      "name": "CHI"
+    }, 
+    {
+      "potential_points": 91, 
+      "conference": "Western Conference", 
+      "points": 91, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/22/tiny_logo@2x.png", 
+      "name": "DAL"
+    }, 
+    {
+      "potential_points": 112, 
+      "conference": "Western Conference", 
+      "points": 112, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/27/tiny_logo@2x.png", 
+      "name": "COL"
+    }, 
+    {
+      "potential_points": 111, 
+      "conference": "Western Conference", 
+      "points": 111, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/20/tiny_logo@2x.png", 
+      "name": "STL"
+    }, 
+    {
+      "potential_points": 88, 
+      "conference": "Western Conference", 
+      "points": 88, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/19/tiny_logo@2x.png", 
+      "name": "NSH"
+    }, 
+    {
+      "potential_points": 84, 
+      "conference": "Western Conference", 
+      "points": 84, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/11/tiny_logo@2x.png", 
+      "name": "WPG"
+    }, 
+    {
+      "potential_points": 98, 
+      "conference": "Western Conference", 
+      "points": 98, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/29/tiny_logo@2x.png", 
+      "name": "MIN"
+    }, 
+    {
+      "potential_points": 77, 
+      "conference": "Western Conference", 
+      "points": 77, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/26/tiny_logo@2x.png", 
+      "name": "CGY"
+    }, 
+    {
+      "potential_points": 67, 
+      "conference": "Western Conference", 
+      "points": 67, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/28/tiny_logo@2x.png", 
+      "name": "EDM"
+    }, 
+    {
+      "potential_points": 100, 
+      "conference": "Western Conference", 
+      "points": 100, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/23/tiny_logo@2x.png", 
+      "name": "LA"
+    }, 
+    {
+      "potential_points": 111, 
+      "conference": "Western Conference", 
+      "points": 111, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/25/tiny_logo@2x.png", 
+      "name": "SJ"
+    }, 
+    {
+      "potential_points": 83, 
+      "conference": "Western Conference", 
+      "points": 83, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/30/tiny_logo@2x.png", 
+      "name": "VAN"
+    }, 
+    {
+      "potential_points": 89, 
+      "conference": "Western Conference", 
+      "points": 89, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/24/tiny_logo@2x.png", 
+      "name": "PHO"
+    }, 
+    {
+      "potential_points": 116, 
+      "conference": "Western Conference", 
+      "points": 116, 
+      "logo_tiny": "http://thescore-api-artifacts.s3.amazonaws.com/hockey/team/21/tiny_logo@2x.png", 
+      "name": "ANH"
+    }
+  ]
+}
